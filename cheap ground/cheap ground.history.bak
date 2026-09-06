@@ -1,621 +1,687 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
-  <UndoTransaction tv-sec="1788062431" tv-usec="964825" name="change velocities">
-    <NoteDiffCommand midi-source="17679">
-      <ChangedNotes>
-        <Change property="Velocity" old="94" new="93" id="459700"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
+  <UndoTransaction tv-sec="1788667393" tv-usec="808765" name="add marker">
+    <MementoCommand obj-id="57" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="403" name="session" start="b46080" end="b278400" flags="IsSessionRange" locked="0" timestamp="1782019717" cue="0"/>
+        <Location id="2041" name="Loop" start="b138240" end="b224640" flags="IsAutoLoop" locked="0" timestamp="1782355070" cue="0"/>
+      </Locations>
+      <Locations>
+        <Location id="403" name="session" start="b46080" end="b278400" flags="IsSessionRange" locked="0" timestamp="1782019717" cue="0"/>
+        <Location id="2041" name="Loop" start="b138240" end="b224640" flags="IsAutoLoop" locked="0" timestamp="1782355070" cue="0"/>
+        <Location id="24862" name="mark1" start="b460800" end="b460800" flags="IsMark" locked="0" timestamp="1788667393" cue="0"/>
+      </Locations>
+    </MementoCommand>
     <MementoCommand obj-id="49" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="3026612" y-origin="76">
-        <Selection>
-          <Regions>
-            <Region id="17685"/>
-          </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
-        </Selection>
+      <SelectionMemento mouse-mode="MouseObject" zoom="2470" left-frame="5240451" y-origin="706">
+        <Selection/>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="3026612" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2470" left-frame="5240451" y-origin="706">
         <Selection>
-          <Regions>
-            <Region id="17685"/>
-          </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
+          <Marker id="24862" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1788062432" tv-usec="381003" name="change velocities">
-    <NoteDiffCommand midi-source="17679">
-      <ChangedNotes>
-        <Change property="Velocity" old="93" new="92" id="459700"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
+  <UndoTransaction tv-sec="1788667959" tv-usec="189114" name="add marker">
+    <MementoCommand obj-id="57" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="403" name="session" start="b46080" end="b278400" flags="IsSessionRange" locked="0" timestamp="1782019717" cue="0"/>
+        <Location id="2041" name="Loop" start="b138240" end="b224640" flags="IsAutoLoop" locked="0" timestamp="1782355070" cue="0"/>
+        <Location id="24862" name="mark1" start="b460800" end="b460800" flags="IsMark" locked="0" timestamp="1788667393" cue="0"/>
+      </Locations>
+      <Locations>
+        <Location id="403" name="session" start="b46080" end="b278400" flags="IsSessionRange" locked="0" timestamp="1782019717" cue="0"/>
+        <Location id="2041" name="Loop" start="b138240" end="b224640" flags="IsAutoLoop" locked="0" timestamp="1782355070" cue="0"/>
+        <Location id="24862" name="mark1" start="b460800" end="b460800" flags="IsMark" locked="0" timestamp="1788667393" cue="0"/>
+        <Location id="25066" name="mark2" start="b743040" end="b743040" flags="IsMark" locked="0" timestamp="1788667959" cue="0"/>
+      </Locations>
+    </MementoCommand>
     <MementoCommand obj-id="49" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="3026612" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2470" left-frame="7810140" y-origin="706">
         <Selection>
-          <Regions>
-            <Region id="17685"/>
-          </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
+          <StripableView id="19848"/>
+          <Marker id="24862" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="3026612" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2470" left-frame="7810140" y-origin="706">
         <Selection>
-          <Regions>
-            <Region id="17685"/>
-          </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
+          <Marker id="25066" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1788062432" tv-usec="449793" name="change velocities">
-    <NoteDiffCommand midi-source="17679">
-      <ChangedNotes>
-        <Change property="Velocity" old="92" new="91" id="459700"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
+  <UndoTransaction tv-sec="1788670248" tv-usec="308684" name="Fork Region(s)">
+    <StatefulDiffCommand obj-id="11503" type-name="ARDOUR::MidiPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="28542"/>
+          <Remove id="19685"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
     <MementoCommand obj-id="49" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="3026612" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="308" left-frame="4640084" y-origin="76">
         <Selection>
           <Regions>
-            <Region id="17685"/>
+            <Region id="19685"/>
           </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
+          <Marker id="25066" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="3026612" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="308" left-frame="4640084" y-origin="76">
         <Selection>
-          <Regions>
-            <Region id="17685"/>
-          </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
+          <Marker id="25066" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1788062432" tv-usec="629217" name="change velocities">
-    <NoteDiffCommand midi-source="17679">
-      <ChangedNotes>
-        <Change property="Velocity" old="91" new="90" id="459700"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
+  <UndoTransaction tv-sec="1788670313" tv-usec="432946" name="delete objects">
+    <StatefulDiffCommand obj-id="11503" type-name="ARDOUR::MidiPlaylist">
+      <Changes>
+        <Regions>
+          <Remove id="28542"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
     <MementoCommand obj-id="49" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="3026612" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="308" left-frame="4640084" y-origin="76">
         <Selection>
           <Regions>
-            <Region id="17685"/>
+            <Region id="28542"/>
           </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="3026612" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="308" left-frame="4640084" y-origin="76">
+        <Selection/>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1788670315" tv-usec="330450" name="duplicate region">
+    <StatefulDiffCommand obj-id="11503" type-name="ARDOUR::MidiPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="28560"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="49" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="308" left-frame="4640084" y-origin="76">
         <Selection>
           <Regions>
-            <Region id="17685"/>
+            <Region id="19688"/>
           </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="308" left-frame="4640084" y-origin="76">
+        <Selection>
+          <Regions>
+            <Region id="28560"/>
+          </Regions>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1788062432" tv-usec="763584" name="change velocities">
-    <NoteDiffCommand midi-source="17679">
-      <ChangedNotes>
-        <Change property="Velocity" old="90" new="89" id="459700"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
+  <UndoTransaction tv-sec="1788670685" tv-usec="394193" name="region copy">
+    <StatefulDiffCommand obj-id="28566" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <layering-index from="6" to="1"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="20208" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <layering-index from="1" to="2"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="20432" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <layering-index from="4" to="5"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="23527" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <layering-index from="2" to="3"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="24019" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <layering-index from="3" to="4"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="24350" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <layering-index from="5" to="6"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="19910" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="28566"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
     <MementoCommand obj-id="49" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="3026612" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="4928" left-frame="0" y-origin="554">
         <Selection>
           <Regions>
-            <Region id="17685"/>
+            <Region id="20096"/>
           </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="3026612" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="4928" left-frame="0" y-origin="554">
         <Selection>
           <Regions>
-            <Region id="17685"/>
+            <Region id="28566"/>
           </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1788062432" tv-usec="876056" name="change velocities">
-    <NoteDiffCommand midi-source="17679">
-      <ChangedNotes>
-        <Change property="Velocity" old="89" new="88" id="459700"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
+  <UndoTransaction tv-sec="1788670692" tv-usec="556765" name="Region end trim">
+    <StatefulDiffCommand obj-id="28566" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <length from="a30481920000@a4064256000" to="a10160640000@a4064256000"/>
+        <Envelope>
+          <from>
+            <AutomationList automation-id="envelope" id="28654" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
+              <events>a0 1
+a30481920000 1.0000001000000001
+a30481920000 1.0000001000000001
+</events>
+            </AutomationList>
+          </from>
+          <to>
+            <AutomationList automation-id="envelope" id="28653" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
+              <events>a0 1
+a10160640000 1.0000001333333346
+</events>
+            </AutomationList>
+          </to>
+        </Envelope>
+      </Changes>
+    </StatefulDiffCommand>
     <MementoCommand obj-id="49" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="3026612" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="4928" left-frame="0" y-origin="554">
         <Selection>
           <Regions>
-            <Region id="17685"/>
+            <Region id="28566"/>
           </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="3026612" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="4928" left-frame="0" y-origin="554">
         <Selection>
           <Regions>
-            <Region id="17685"/>
+            <Region id="28566"/>
           </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1788062432" tv-usec="944367" name="change velocities">
-    <NoteDiffCommand midi-source="17679">
-      <ChangedNotes>
-        <Change property="Velocity" old="88" new="87" id="459700"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
+  <UndoTransaction tv-sec="1788670698" tv-usec="372617" name="Region start trim">
+    <StatefulDiffCommand obj-id="28566" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <start from="a0" to="a2032128000"/>
+        <length from="a10160640000@a4064256000" to="a8128512000@a6096384000"/>
+        <Envelope>
+          <from>
+            <AutomationList automation-id="envelope" id="28691" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
+              <events>a0 1
+a10160640000 1.0000001333333346
+</events>
+            </AutomationList>
+          </from>
+          <to>
+            <AutomationList automation-id="envelope" id="28690" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
+              <events>a0 1.0000001266666696
+a8128512000 1.0000001333333346
+</events>
+            </AutomationList>
+          </to>
+        </Envelope>
+      </Changes>
+    </StatefulDiffCommand>
     <MementoCommand obj-id="49" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="3026612" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1232" left-frame="613536" y-origin="554">
         <Selection>
           <Regions>
-            <Region id="17685"/>
+            <Region id="28566"/>
           </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="3026612" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1232" left-frame="613536" y-origin="554">
         <Selection>
           <Regions>
-            <Region id="17685"/>
+            <Region id="28566"/>
           </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1788062432" tv-usec="989167" name="change velocities">
-    <NoteDiffCommand midi-source="17679">
-      <ChangedNotes>
-        <Change property="Velocity" old="87" new="86" id="459700"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
+  <UndoTransaction tv-sec="1788670701" tv-usec="72430" name="region drag">
+    <StatefulDiffCommand obj-id="28566" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <length from="a8128512000@a6096384000" to="a8128512000@a4064256000"/>
+        <layering-index from="1" to="0"/>
+      </Changes>
+    </StatefulDiffCommand>
     <MementoCommand obj-id="49" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="3026612" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1232" left-frame="613536" y-origin="554">
         <Selection>
           <Regions>
-            <Region id="17685"/>
+            <Region id="28566"/>
           </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="3026612" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1232" left-frame="613536" y-origin="554">
         <Selection>
           <Regions>
-            <Region id="17685"/>
+            <Region id="28566"/>
           </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1788062433" tv-usec="540118" name="change velocities">
-    <NoteDiffCommand midi-source="17679">
-      <ChangedNotes>
-        <Change property="Velocity" old="86" new="85" id="459700"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
+  <UndoTransaction tv-sec="1788670736" tv-usec="100368" name="duplicate region">
+    <StatefulDiffCommand obj-id="19910" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="28733"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
     <MementoCommand obj-id="49" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="3026612" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1232" left-frame="814352" y-origin="554">
         <Selection>
           <Regions>
-            <Region id="17685"/>
+            <Region id="28566"/>
           </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
+          <Marker id="403" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="3026612" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1232" left-frame="814352" y-origin="554">
         <Selection>
           <Regions>
-            <Region id="17685"/>
+            <Region id="28733"/>
           </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
+          <Marker id="403" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1788062433" tv-usec="663777" name="change velocities">
-    <NoteDiffCommand midi-source="17679">
-      <ChangedNotes>
-        <Change property="Velocity" old="85" new="84" id="459700"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
+  <UndoTransaction tv-sec="1788670752" tv-usec="118695" name="Region end trim">
+    <StatefulDiffCommand obj-id="28733" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <length from="a8128512000@a12192768000" to="a12531456000@a12192768000"/>
+        <Envelope>
+          <from>
+            <AutomationList automation-id="envelope" id="28786" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
+              <events>a0 1.0000001266666696
+a8128512000 1.0000001333333346
+a8128512000 1.0000001333333346
+</events>
+            </AutomationList>
+          </from>
+          <to>
+            <AutomationList automation-id="envelope" id="28785" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
+              <events>a0 1.0000001266666696
+a8128512000 1.0000001333333346
+a12531456000 1.0000001333333346
+</events>
+            </AutomationList>
+          </to>
+        </Envelope>
+      </Changes>
+    </StatefulDiffCommand>
     <MementoCommand obj-id="49" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="3026612" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2464" left-frame="803264" y-origin="554">
         <Selection>
           <Regions>
-            <Region id="17685"/>
+            <Region id="28733"/>
           </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
+          <Marker id="403" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="3026612" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2464" left-frame="803264" y-origin="554">
         <Selection>
           <Regions>
-            <Region id="17685"/>
+            <Region id="28733"/>
           </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
+          <Marker id="403" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1788062433" tv-usec="809964" name="change velocities">
-    <NoteDiffCommand midi-source="17679">
-      <ChangedNotes>
-        <Change property="Velocity" old="84" new="83" id="459700"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
+  <UndoTransaction tv-sec="1788670800" tv-usec="887177" name="region copy">
+    <StatefulDiffCommand obj-id="28789" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <layering-index from="5" to="1"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="20237" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <layering-index from="1" to="2"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="20461" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <layering-index from="3" to="4"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="23584" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <layering-index from="2" to="3"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="24434" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <layering-index from="4" to="5"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="19978" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="28789"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
     <MementoCommand obj-id="49" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="3026612" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="4928" left-frame="0" y-origin="706">
         <Selection>
           <Regions>
-            <Region id="17685"/>
+            <Region id="20125"/>
           </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
+          <Marker id="403" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="3026612" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="4928" left-frame="0" y-origin="706">
         <Selection>
           <Regions>
-            <Region id="17685"/>
+            <Region id="28789"/>
           </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
+          <Marker id="403" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1788062433" tv-usec="978891" name="change velocities">
-    <NoteDiffCommand midi-source="17679">
-      <ChangedNotes>
-        <Change property="Velocity" old="83" new="82" id="459700"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
+  <UndoTransaction tv-sec="1788670811" tv-usec="414267" name="split">
+    <StatefulDiffCommand obj-id="19978" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="28846"/>
+          <Add id="28837"/>
+          <Remove id="28789"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
     <MementoCommand obj-id="49" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="3026612" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2464" left-frame="2907520" y-origin="706">
         <Selection>
           <Regions>
-            <Region id="17685"/>
+            <Region id="28789"/>
           </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
+          <Marker id="403" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="3026612" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2464" left-frame="2907520" y-origin="706">
         <Selection>
-          <Regions>
-            <Region id="17685"/>
-          </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
+          <Marker id="403" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1788062434" tv-usec="349419" name="change velocities">
-    <NoteDiffCommand midi-source="17679">
-      <ChangedNotes>
-        <Change property="Velocity" old="82" new="81" id="459700"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
+  <UndoTransaction tv-sec="1788670813" tv-usec="928101" name="delete objects">
+    <StatefulDiffCommand obj-id="20237" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <layering-index from="3" to="2"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="20461" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <layering-index from="5" to="4"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="23584" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <layering-index from="4" to="3"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="24434" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <layering-index from="6" to="5"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="19978" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Remove id="28846"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
     <MementoCommand obj-id="49" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="3026612" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2464" left-frame="2907520" y-origin="706">
         <Selection>
           <Regions>
-            <Region id="17685"/>
+            <Region id="28846"/>
           </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
+          <Marker id="403" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="3026612" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2464" left-frame="2907520" y-origin="706">
         <Selection>
-          <Regions>
-            <Region id="17685"/>
-          </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
+          <Marker id="403" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1788062438" tv-usec="254427" name="move notes">
-    <NoteDiffCommand midi-source="17679">
-      <ChangedNotes>
-        <Change property="NoteNumber" old="50" new="49" id="459700"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
+  <UndoTransaction tv-sec="1788670823" tv-usec="552746" name="Region start trim">
+    <StatefulDiffCommand obj-id="28837" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <start from="a0" to="a2032128000"/>
+        <length from="a21845376000@a4064256000" to="a19813248000@a6096384000"/>
+        <Envelope>
+          <from>
+            <AutomationList automation-id="envelope" id="28933" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
+              <events>a0 1
+a21845376000 1.0000001000000001
+</events>
+            </AutomationList>
+          </from>
+          <to>
+            <AutomationList automation-id="envelope" id="28932" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
+              <events>a0 1.0000001093023296
+a19813248000 1.0000001000000001
+</events>
+            </AutomationList>
+          </to>
+        </Envelope>
+      </Changes>
+    </StatefulDiffCommand>
     <MementoCommand obj-id="49" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="3026612" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1232" left-frame="0" y-origin="706">
         <Selection>
           <Regions>
-            <Region id="17685"/>
+            <Region id="28837"/>
           </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
+          <Marker id="403" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="3026612" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1232" left-frame="0" y-origin="706">
         <Selection>
           <Regions>
-            <Region id="17685"/>
+            <Region id="28837"/>
           </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
+          <Marker id="403" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1788062448" tv-usec="243970" name="change velocities">
-    <NoteDiffCommand midi-source="17679">
-      <ChangedNotes>
-        <Change property="Velocity" old="81" new="80" id="459700"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
+  <UndoTransaction tv-sec="1788670828" tv-usec="389450" name="region drag">
+    <StatefulDiffCommand obj-id="28837" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <length from="a19813248000@a6096384000" to="a19813248000@a4064256000"/>
+        <layering-index from="1" to="0"/>
+      </Changes>
+    </StatefulDiffCommand>
     <MementoCommand obj-id="49" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="2976898" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1232" left-frame="0" y-origin="706">
         <Selection>
           <Regions>
-            <Region id="17685"/>
+            <Region id="28837"/>
           </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
+          <Marker id="403" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="2976898" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="1232" left-frame="0" y-origin="706">
         <Selection>
           <Regions>
-            <Region id="17685"/>
+            <Region id="28837"/>
           </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
+          <Marker id="403" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1788062448" tv-usec="356350" name="change velocities">
-    <NoteDiffCommand midi-source="17679">
-      <ChangedNotes>
-        <Change property="Velocity" old="80" new="79" id="459700"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
+  <UndoTransaction tv-sec="1788670845" tv-usec="59834" name="split">
+    <StatefulDiffCommand obj-id="19978" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="28952"/>
+          <Add id="28943"/>
+          <Remove id="28837"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
     <MementoCommand obj-id="49" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="2976898" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2464" left-frame="0" y-origin="706">
         <Selection>
           <Regions>
-            <Region id="17685"/>
+            <Region id="28837"/>
           </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
+          <Marker id="403" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="2976898" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2464" left-frame="0" y-origin="706">
         <Selection>
-          <Regions>
-            <Region id="17685"/>
-          </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
+          <Marker id="403" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1788062448" tv-usec="997823" name="change velocities">
-    <NoteDiffCommand midi-source="17679">
-      <ChangedNotes>
-        <Change property="Velocity" old="79" new="78" id="459700"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
+  <UndoTransaction tv-sec="1788670846" tv-usec="974324" name="delete objects">
+    <StatefulDiffCommand obj-id="20237" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <layering-index from="3" to="2"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="20461" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <layering-index from="5" to="4"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="20125" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <layering-index from="2" to="1"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="23584" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <layering-index from="4" to="3"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="24434" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <layering-index from="6" to="5"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="19978" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Remove id="28952"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
     <MementoCommand obj-id="49" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="2976898" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2464" left-frame="0" y-origin="706">
         <Selection>
           <Regions>
-            <Region id="17685"/>
+            <Region id="28952"/>
           </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
+          <Marker id="403" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="2976898" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2464" left-frame="0" y-origin="706">
         <Selection>
-          <Regions>
-            <Region id="17685"/>
-          </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
+          <Marker id="403" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1788062449" tv-usec="256626" name="change velocities">
-    <NoteDiffCommand midi-source="17679">
-      <ChangedNotes>
-        <Change property="Velocity" old="78" new="77" id="459700"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
+  <UndoTransaction tv-sec="1788670849" tv-usec="94303" name="duplicate region">
+    <StatefulDiffCommand obj-id="19978" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="29038"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
     <MementoCommand obj-id="49" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="2976898" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2464" left-frame="0" y-origin="706">
         <Selection>
           <Regions>
-            <Region id="17685"/>
+            <Region id="28943"/>
           </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
+          <Marker id="403" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="2976898" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2464" left-frame="0" y-origin="706">
         <Selection>
           <Regions>
-            <Region id="17685"/>
+            <Region id="29038"/>
           </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
+          <Marker id="403" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv-sec="1788062449" tv-usec="728817" name="change velocities">
-    <NoteDiffCommand midi-source="17679">
-      <ChangedNotes>
-        <Change property="Velocity" old="77" new="76" id="459700"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
+  <UndoTransaction tv-sec="1788670866" tv-usec="371126" name="Region end trim">
+    <StatefulDiffCommand obj-id="29038" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <length from="a8128512000@a12192768000" to="a12531456000@a12192768000"/>
+        <Envelope>
+          <from>
+            <AutomationList automation-id="envelope" id="29086" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
+              <events>a0 1.0000001093023296
+a8128512000 1.0000002000000001
+a8128512000 1.0000002000000001
+</events>
+            </AutomationList>
+          </from>
+          <to>
+            <AutomationList automation-id="envelope" id="29085" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
+              <events>a0 1.0000001093023296
+a8128512000 1.0000002000000001
+a12531456000 1.0000002000000001
+</events>
+            </AutomationList>
+          </to>
+        </Envelope>
+      </Changes>
+    </StatefulDiffCommand>
     <MementoCommand obj-id="49" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="2976898" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2464" left-frame="803264" y-origin="706">
         <Selection>
           <Regions>
-            <Region id="17685"/>
+            <Region id="29038"/>
           </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
+          <Marker id="403" start="1"/>
         </Selection>
       </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="2976898" y-origin="76">
+      <SelectionMemento mouse-mode="MouseObject" zoom="2464" left-frame="803264" y-origin="706">
         <Selection>
           <Regions>
-            <Region id="17685"/>
+            <Region id="29038"/>
           </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv-sec="1788062450" tv-usec="178653" name="change velocities">
-    <NoteDiffCommand midi-source="17679">
-      <ChangedNotes>
-        <Change property="Velocity" old="76" new="75" id="459700"/>
-      </ChangedNotes>
-      <AddedNotes/>
-      <RemovedNotes/>
-    </NoteDiffCommand>
-    <MementoCommand obj-id="49" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="2976898" y-origin="76">
-        <Selection>
-          <Regions>
-            <Region id="17685"/>
-          </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseDraw" zoom="162" left-frame="2976898" y-origin="76">
-        <Selection>
-          <Regions>
-            <Region id="17685"/>
-          </Regions>
-          <MIDINotes region-id="17685">
-            <note note-id="459700"/>
-          </MIDINotes>
+          <Marker id="403" start="1"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
