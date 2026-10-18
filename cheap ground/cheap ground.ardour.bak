@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="7003" name="cheap ground" sample-rate="44100" session-range-is-free="0" id-counter="41825" rg-counter="941" name-counter="1" event-counter="1853286" vca-counter="1">
+<Session version="7003" name="cheap ground" sample-rate="44100" session-range-is-free="0" id-counter="47617" rg-counter="974" name-counter="1" event-counter="1961558" vca-counter="1">
   <ProgramVersion created-with="Ardour 8.4.0~ds1-2ubuntu8" modified-with="Ardour 8.4.0~ds1-2ubuntu8"/>
   <MIDIPorts>
     <Port name="Cue Control in" type="midi" direction="Input"/>
@@ -107,6 +107,8 @@
     <Source name="Black Pearl Drumkit-6.mid" take-id="" type="midi" flags="Writable,CanRename" id="28536" natural-position="a0" origin=""/>
     <Source name="chappel keys-4.wav" take-id="2026-09-15 00.00.45" type="audio" flags="" id="32301" timestamp="1789448445" natural-position="a33530112000" captured-for="chappel keys" channel="0" origin="" gain="1"/>
     <Source name="chappel keys-5.wav" take-id="2026-09-15 00.03.44" type="audio" flags="" id="32733" timestamp="1789448624" natural-position="a36578304000" captured-for="chappel keys" channel="0" origin="" gain="1"/>
+    <Source name="vocals-1.wav" take-id="2026-10-18 00.14.48" type="audio" flags="" id="47534" timestamp="1792300488" natural-position="a83317248000" captured-for="vocals" channel="0" origin="" gain="1"/>
+    <Source name="vocals-2.wav" take-id="2026-10-18 00.26.04" type="audio" flags="" id="47577" timestamp="1792301164" natural-position="a90937728000" captured-for="vocals" channel="0" origin="" gain="1"/>
   </Sources>
   <TriggerBindings/>
   <Regions>
@@ -271,6 +273,7 @@
     <Region name="live inst 2-1.25" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="a26417664000" length="a6781132800@a104654592000" sync-position="a26417664000" ancestral-start="a0" ancestral-length="a0@a0" stretch="1" shift="1" layering-index="1" tags="" contents="0" rgroup="13392" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="38950" type="audio" first-edit="nothing" source-0="19980" master-source-0="19980" channels="1"/>
     <Region name="Black Pearl Drumkit-4.117" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b996480" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="135" tags="" contents="0" rgroup="0" id="40346" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
     <Region name="Black Pearl Drumkit-2.5" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1002240" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="136" tags="" contents="0" rgroup="0" id="40355" type="midi" first-edit="nothing" source-0="17679" master-source-0="17679"/>
+    <Region name="Black Pearl Drumkit-4.133" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1088640" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="151" tags="" contents="0" rgroup="0" id="40448" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
     <Region name="Black Pearl Drumkit-4.150" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1186560" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="168" tags="" contents="0" rgroup="0" id="40550" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
     <Region name="Black Pearl Drumkit-4.151" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1192320" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="168" tags="" contents="0" rgroup="0" id="40556" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
     <Region name="Black Pearl Drumkit-3.55" muted="0" opaque="0" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1226880" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="169" tags="" contents="0" rgroup="0" id="40572" type="midi" first-edit="nothing" source-0="11566" master-source-0="11566"/>
@@ -282,8 +285,12 @@
     <Region name="chappel keys-5.7" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="a1016064000" length="a6604416000@a85349376000" sync-position="a1016064000" ancestral-start="a0" ancestral-length="a0@a0" stretch="1" shift="1" layering-index="12" tags="" contents="0" rgroup="14608" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="41077" type="audio" first-edit="nothing" source-0="32733" master-source-0="32733" channels="1"/>
     <Region name="chappel keys-5.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="a1016064000" length="a3048192000@a85349376000" sync-position="a1016064000" ancestral-start="a0" ancestral-length="a0@a0" stretch="1" shift="1" layering-index="12" tags="" contents="0" rgroup="14608" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="41179" type="audio" first-edit="nothing" source-0="32733" master-source-0="32733" channels="1"/>
     <Region name="chappel keys-4.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="a3048192000" length="a4064256000@a84333312000" sync-position="a3048192000" ancestral-start="a0" ancestral-length="a0@a0" stretch="1" shift="1" layering-index="11" tags="" contents="0" rgroup="14576" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="41275" type="audio" first-edit="nothing" source-0="32301" master-source-0="32301" channels="1"/>
+    <Region name="vocals-1" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="a0" length="a12958003200@a83317248000" sync-position="a0" ancestral-start="a0" ancestral-length="a0@a0" stretch="1" shift="1" layering-index="0" tags="" contents="0" rgroup="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="47550" type="audio" first-edit="nothing" source-0="47534" master-source-0="47534" channels="1"/>
+    <Region name="vocals-2" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="a0" length="a5860454400@a90937728000" sync-position="a0" ancestral-start="a0" ancestral-length="a0@a0" stretch="1" shift="1" layering-index="0" tags="" contents="0" rgroup="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="47588" type="audio" first-edit="nothing" source-0="47577" master-source-0="47577" channels="1"/>
   </Regions>
-  <Selection/>
+  <Selection>
+    <StripableAutomationControl stripable="47470" control="0" order="3"/>
+  </Selection>
   <Locations>
     <Location id="403" name="session" start="b891840" end="b1464960" flags="IsSessionRange" locked="0" timestamp="1782019717" cue="0"/>
     <Location id="2041" name="Loop" start="b414720" end="b506880" flags="IsAutoLoop" locked="0" timestamp="1782355070" cue="0"/>
@@ -310,6 +317,8 @@
           <Connection other="live bass/audio_out 1"/>
           <Connection other="live keys/audio_out 1"/>
           <Connection other="live sax/audio_out 1"/>
+          <Connection other="vocals/audio_out 1"/>
+          <Connection other="vocals/audio_out 1"/>
         </Port>
         <Port name="Master/audio_in 2" type="audio" direction="Input">
           <Connection other="Black Pearl Drumkit/audio_out 2"/>
@@ -322,6 +331,8 @@
           <Connection other="live bass/audio_out 2"/>
           <Connection other="live keys/audio_out 2"/>
           <Connection other="live sax/audio_out 2"/>
+          <Connection other="vocals/audio_out 2"/>
+          <Connection other="vocals/audio_out 2"/>
         </Port>
       </IO>
       <IO name="Master" id="100" direction="Output" default-type="audio">
@@ -1900,7 +1911,7 @@
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
       </Processor>
       <Slavable/>
-      <Controllable name="monitor" id="20045" flags="RealTime" value="0" monitoring=""/>
+      <Controllable name="monitor" id="20045" flags="RealTime" value="1" monitoring="MonitorInput,MonitorCue"/>
       <Controllable name="rec-safe" id="20043" flags="Toggle,RealTime" value="0"/>
       <Controllable name="rec-enable" id="20041" flags="Toggle,RealTime" value="0"/>
     </Route>
@@ -1993,6 +2004,98 @@
       <Controllable name="monitor" id="32951" flags="RealTime" value="0" monitoring=""/>
       <Controllable name="rec-safe" id="32949" flags="Toggle,RealTime" value="0"/>
       <Controllable name="rec-enable" id="32947" flags="Toggle,RealTime" value="0"/>
+    </Route>
+    <Route version="7003" id="47470" name="vocals" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterInput" disk-io-point="DiskIOPreFader" meter-type="MeterPeak" audio-playlist="47532" saved-meter-point="MeterPostFader" alignment-choice="Automatic" mode="Normal">
+      <PresentationInfo order="11" flags="AudioTrack,OrderSet,TriggerTrack" color="2855877119"/>
+      <Controllable name="solo" id="47495" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="47501" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
+      <Controllable name="solo-safe" id="47503" flags="Toggle" value="0" solo-safe="0"/>
+      <IO name="vocals" id="47515" direction="Input" default-type="audio">
+        <Port name="vocals/audio_in 1" type="audio" direction="Input">
+          <ExtConnection for="JACK"/>
+          <ExtConnection for="JACK" other="UMC1820 Multichannel:capture_AUX12"/>
+        </Port>
+      </IO>
+      <IO name="vocals" id="47516" direction="Output" default-type="audio">
+        <Port name="vocals/audio_out 1" type="audio" direction="Output">
+          <Connection other="Master/audio_in 1"/>
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port name="vocals/audio_out 2" type="audio" direction="Output">
+          <Connection other="Master/audio_in 2"/>
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main,SurroundSend" muted="0"/>
+      <Controllable name="mute" id="47497" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="phase" id="47499" flags="Toggle" value="0" phase-invert="0"/>
+      <Automation>
+        <AutomationList automation-id="solo" id="47494" interpolation-style="Discrete" time-domain="AudioTime" state="Off"/>
+        <AutomationList automation-id="solo-iso" id="47500" interpolation-style="Discrete" time-domain="AudioTime" state="Off"/>
+        <AutomationList automation-id="solo-safe" id="47502" interpolation-style="Discrete" time-domain="AudioTime" state="Off"/>
+        <AutomationList automation-id="mute" id="47496" interpolation-style="Discrete" time-domain="AudioTime" state="Off"/>
+        <AutomationList automation-id="rec-enable" id="47526" interpolation-style="Discrete" time-domain="AudioTime" state="Off"/>
+        <AutomationList automation-id="rec-safe" id="47528" interpolation-style="Discrete" time-domain="AudioTime" state="Off"/>
+        <AutomationList automation-id="phase" id="47498" interpolation-style="Discrete" time-domain="AudioTime" state="Off"/>
+        <AutomationList automation-id="monitor" id="47530" interpolation-style="Discrete" time-domain="AudioTime" state="Off"/>
+      </Automation>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="47506" flags="" value="0.5"/>
+        <Controllable name="pan-width" id="47510" flags="" value="0"/>
+        <Controllable name="pan-elevation" id="47508" flags="" value="0"/>
+        <Controllable name="pan-frontback" id="47512" flags="" value="0"/>
+        <Controllable name="pan-lfe" id="47514" flags="" value="0"/>
+        <Automation>
+          <AutomationList automation-id="pan-azimuth" id="47505" interpolation-style="Linear" time-domain="BeatTime" state="Off"/>
+          <AutomationList automation-id="pan-elevation" id="47507" interpolation-style="Linear" time-domain="BeatTime" state="Off"/>
+          <AutomationList automation-id="pan-width" id="47509" interpolation-style="Linear" time-domain="BeatTime" state="Off"/>
+          <AutomationList automation-id="pan-frontback" id="47511" interpolation-style="Linear" time-domain="BeatTime" state="Off"/>
+          <AutomationList automation-id="pan-lfe" id="47513" interpolation-style="Linear" time-domain="BeatTime" state="Off"/>
+        </Automation>
+      </Pannable>
+      <Processor id="47521" name="meter-vocals" active="1" user-latency="0" use-user-latency="0" type="meter"/>
+      <Processor id="47525" name="recorder:vocals" active="1" user-latency="0" use-user-latency="0" type="diskwriter" record-safe="0"/>
+      <Processor id="47524" name="player:vocals" active="1" user-latency="0" use-user-latency="0" type="diskreader"/>
+      <Processor id="47473" name="TriggerBox" active="1" user-latency="0" use-user-latency="0" type="triggerbox" data-type="audio" order="10">
+        <Triggers>
+          <Trigger name="" gain="1" color="3200171775" follow-count="1" use-follow-length="0" follow-length="1|0|0" legato="0" velocity-effect="0" follow-action-probability="0" quantization="1|0|0" launch-style="OneShot" follow-action-0="Again:0" follow-action-1="Stop:0" stretchable="1" cue_isolated="0" allow_patch_changes="1" stretch_mode="Crisp" index="0" segment-tempo="0" start="a0"/>
+          <Trigger name="" gain="1" color="3200171775" follow-count="1" use-follow-length="0" follow-length="1|0|0" legato="0" velocity-effect="0" follow-action-probability="0" quantization="1|0|0" launch-style="OneShot" follow-action-0="Again:0" follow-action-1="Stop:0" stretchable="1" cue_isolated="0" allow_patch_changes="1" stretch_mode="Crisp" index="1" segment-tempo="0" start="a0"/>
+          <Trigger name="" gain="1" color="3200171775" follow-count="1" use-follow-length="0" follow-length="1|0|0" legato="0" velocity-effect="0" follow-action-probability="0" quantization="1|0|0" launch-style="OneShot" follow-action-0="Again:0" follow-action-1="Stop:0" stretchable="1" cue_isolated="0" allow_patch_changes="1" stretch_mode="Crisp" index="2" segment-tempo="0" start="a0"/>
+          <Trigger name="" gain="1" color="3200171775" follow-count="1" use-follow-length="0" follow-length="1|0|0" legato="0" velocity-effect="0" follow-action-probability="0" quantization="1|0|0" launch-style="OneShot" follow-action-0="Again:0" follow-action-1="Stop:0" stretchable="1" cue_isolated="0" allow_patch_changes="1" stretch_mode="Crisp" index="3" segment-tempo="0" start="a0"/>
+          <Trigger name="" gain="1" color="3200171775" follow-count="1" use-follow-length="0" follow-length="1|0|0" legato="0" velocity-effect="0" follow-action-probability="0" quantization="1|0|0" launch-style="OneShot" follow-action-0="Again:0" follow-action-1="Stop:0" stretchable="1" cue_isolated="0" allow_patch_changes="1" stretch_mode="Crisp" index="4" segment-tempo="0" start="a0"/>
+          <Trigger name="" gain="1" color="3200171775" follow-count="1" use-follow-length="0" follow-length="1|0|0" legato="0" velocity-effect="0" follow-action-probability="0" quantization="1|0|0" launch-style="OneShot" follow-action-0="Again:0" follow-action-1="Stop:0" stretchable="1" cue_isolated="0" allow_patch_changes="1" stretch_mode="Crisp" index="5" segment-tempo="0" start="a0"/>
+          <Trigger name="" gain="1" color="3200171775" follow-count="1" use-follow-length="0" follow-length="1|0|0" legato="0" velocity-effect="0" follow-action-probability="0" quantization="1|0|0" launch-style="OneShot" follow-action-0="Again:0" follow-action-1="Stop:0" stretchable="1" cue_isolated="0" allow_patch_changes="1" stretch_mode="Crisp" index="6" segment-tempo="0" start="a0"/>
+          <Trigger name="" gain="1" color="3200171775" follow-count="1" use-follow-length="0" follow-length="1|0|0" legato="0" velocity-effect="0" follow-action-probability="0" quantization="1|0|0" launch-style="OneShot" follow-action-0="Again:0" follow-action-1="Stop:0" stretchable="1" cue_isolated="0" allow_patch_changes="1" stretch_mode="Crisp" index="7" segment-tempo="0" start="a0"/>
+          <Trigger name="" gain="1" color="3200171775" follow-count="1" use-follow-length="0" follow-length="1|0|0" legato="0" velocity-effect="0" follow-action-probability="0" quantization="1|0|0" launch-style="OneShot" follow-action-0="Again:0" follow-action-1="Stop:0" stretchable="1" cue_isolated="0" allow_patch_changes="1" stretch_mode="Crisp" index="8" segment-tempo="0" start="a0"/>
+          <Trigger name="" gain="1" color="3200171775" follow-count="1" use-follow-length="0" follow-length="1|0|0" legato="0" velocity-effect="0" follow-action-probability="0" quantization="1|0|0" launch-style="OneShot" follow-action-0="Again:0" follow-action-1="Stop:0" stretchable="1" cue_isolated="0" allow_patch_changes="1" stretch_mode="Crisp" index="9" segment-tempo="0" start="a0"/>
+          <Trigger name="" gain="1" color="3200171775" follow-count="1" use-follow-length="0" follow-length="1|0|0" legato="0" velocity-effect="0" follow-action-probability="0" quantization="1|0|0" launch-style="OneShot" follow-action-0="Again:0" follow-action-1="Stop:0" stretchable="1" cue_isolated="0" allow_patch_changes="1" stretch_mode="Crisp" index="10" segment-tempo="0" start="a0"/>
+          <Trigger name="" gain="1" color="3200171775" follow-count="1" use-follow-length="0" follow-length="1|0|0" legato="0" velocity-effect="0" follow-action-probability="0" quantization="1|0|0" launch-style="OneShot" follow-action-0="Again:0" follow-action-1="Stop:0" stretchable="1" cue_isolated="0" allow_patch_changes="1" stretch_mode="Crisp" index="11" segment-tempo="0" start="a0"/>
+          <Trigger name="" gain="1" color="3200171775" follow-count="1" use-follow-length="0" follow-length="1|0|0" legato="0" velocity-effect="0" follow-action-probability="0" quantization="1|0|0" launch-style="OneShot" follow-action-0="Again:0" follow-action-1="Stop:0" stretchable="1" cue_isolated="0" allow_patch_changes="1" stretch_mode="Crisp" index="12" segment-tempo="0" start="a0"/>
+          <Trigger name="" gain="1" color="3200171775" follow-count="1" use-follow-length="0" follow-length="1|0|0" legato="0" velocity-effect="0" follow-action-probability="0" quantization="1|0|0" launch-style="OneShot" follow-action-0="Again:0" follow-action-1="Stop:0" stretchable="1" cue_isolated="0" allow_patch_changes="1" stretch_mode="Crisp" index="13" segment-tempo="0" start="a0"/>
+          <Trigger name="" gain="1" color="3200171775" follow-count="1" use-follow-length="0" follow-length="1|0|0" legato="0" velocity-effect="0" follow-action-probability="0" quantization="1|0|0" launch-style="OneShot" follow-action-0="Again:0" follow-action-1="Stop:0" stretchable="1" cue_isolated="0" allow_patch_changes="1" stretch_mode="Crisp" index="14" segment-tempo="0" start="a0"/>
+          <Trigger name="" gain="1" color="3200171775" follow-count="1" use-follow-length="0" follow-length="1|0|0" legato="0" velocity-effect="0" follow-action-probability="0" quantization="1|0|0" launch-style="OneShot" follow-action-0="Again:0" follow-action-1="Stop:0" stretchable="1" cue_isolated="0" allow_patch_changes="1" stretch_mode="Crisp" index="15" segment-tempo="0" start="a0"/>
+        </Triggers>
+      </Processor>
+      <Processor id="47518" name="Polarity" active="1" user-latency="0" use-user-latency="0" type="polarity"/>
+      <Processor id="47520" name="Amp" active="1" user-latency="0" use-user-latency="0" type="trim">
+        <Automation>
+          <AutomationList automation-id="trim" id="47492" interpolation-style="Logarithmic" time-domain="AudioTime" state="Off"/>
+        </Automation>
+        <Controllable name="trimcontrol" id="47493" flags="GainLike" value="1"/>
+      </Processor>
+      <Processor id="47517" name="Amp" active="1" user-latency="0" use-user-latency="0" type="amp">
+        <Automation>
+          <AutomationList automation-id="gain" id="47490" interpolation-style="Exponential" time-domain="AudioTime" state="Off"/>
+        </Automation>
+        <Controllable name="gaincontrol" id="47491" flags="GainLike" value="1"/>
+      </Processor>
+      <Processor id="47522" name="vocals" active="1" user-latency="0" use-user-latency="0" own-input="1" own-output="0" output="vocals" type="main-outs" role="Main">
+        <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
+      </Processor>
+      <Slavable/>
+      <Controllable name="monitor" id="47531" flags="RealTime" value="0" monitoring=""/>
+      <Controllable name="rec-safe" id="47529" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="rec-enable" id="47527" flags="Toggle,RealTime" value="1"/>
     </Route>
   </Routes>
   <Playlists>
@@ -4099,8 +4202,6 @@ a409600 1
           <AutomationList automation-id="envelope" id="41194" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000002174104456
 a3556224000 1.0000001174104456
-a3556224000 1.0000001174104456
-a3556224000 1.0000001174104456
 </events>
           </AutomationList>
         </Envelope>
@@ -4261,8 +4362,6 @@ a409600 1
         <Envelope>
           <AutomationList automation-id="envelope" id="41290" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000001551948172
-a5006694400 1
-a5006694400 1
 a5006694400 1
 </events>
           </AutomationList>
@@ -4425,9 +4524,6 @@ a409600 1
           <AutomationList automation-id="envelope" id="41450" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000001551948172
 a5006694400 1
-a5006694400 1
-a5006694400 1
-a5006694400 1
 </events>
           </AutomationList>
         </Envelope>
@@ -4588,9 +4684,6 @@ a409600 1
         <Envelope>
           <AutomationList automation-id="envelope" id="41470" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000002174104456
-a3556224000 1.0000001174104456
-a3556224000 1.0000001174104456
-a3556224000 1.0000001174104456
 a3556224000 1.0000001174104456
 </events>
           </AutomationList>
@@ -4753,10 +4846,6 @@ a409600 1
           <AutomationList automation-id="envelope" id="41565" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000001551948172
 a5006694400 1
-a5006694400 1
-a5006694400 1
-a5006694400 1
-a5006694400 1
 </events>
           </AutomationList>
         </Envelope>
@@ -4917,10 +5006,6 @@ a409600 1
         <Envelope>
           <AutomationList automation-id="envelope" id="41585" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000002174104456
-a3556224000 1.0000001174104456
-a3556224000 1.0000001174104456
-a3556224000 1.0000001174104456
-a3556224000 1.0000001174104456
 a3556224000 1.0000001174104456
 </events>
           </AutomationList>
@@ -5083,11 +5168,6 @@ a409600 1
           <AutomationList automation-id="envelope" id="41686" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000001551948172
 a5006694400 1
-a5006694400 1
-a5006694400 1
-a5006694400 1
-a5006694400 1
-a5006694400 1
 </events>
           </AutomationList>
         </Envelope>
@@ -5248,11 +5328,6 @@ a409600 1
         <Envelope>
           <AutomationList automation-id="envelope" id="41706" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000002174104456
-a3556224000 1.0000001174104456
-a3556224000 1.0000001174104456
-a3556224000 1.0000001174104456
-a3556224000 1.0000001174104456
-a3556224000 1.0000001174104456
 a3556224000 1.0000001174104456
 </events>
           </AutomationList>
@@ -5877,71 +5952,71 @@ a409600 1
       <Region name="Black Pearl Drumkit-4.130" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1071360" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="148" tags="" contents="0" rgroup="0" id="40439" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
       <Region name="Black Pearl Drumkit-4.131" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1077120" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="149" tags="" contents="0" rgroup="0" id="40442" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
       <Region name="Black Pearl Drumkit-4.132" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1082880" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="150" tags="" contents="0" rgroup="0" id="40445" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.133" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1088640" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="151" tags="" contents="0" rgroup="0" id="40448" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.134" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1094400" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="152" tags="" contents="0" rgroup="0" id="40454" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.135" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1100160" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="153" tags="" contents="0" rgroup="0" id="40460" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.136" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1105920" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="154" tags="" contents="0" rgroup="0" id="40466" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.137" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1111680" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="155" tags="" contents="0" rgroup="0" id="40472" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.138" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1117440" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="156" tags="" contents="0" rgroup="0" id="40478" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.139" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1123200" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="157" tags="" contents="0" rgroup="0" id="40484" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.140" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1128960" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="158" tags="" contents="0" rgroup="0" id="40490" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.141" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1134720" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="159" tags="" contents="0" rgroup="0" id="40496" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.142" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1140480" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="160" tags="" contents="0" rgroup="0" id="40502" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.143" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1146240" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="161" tags="" contents="0" rgroup="0" id="40508" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.144" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1152000" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="162" tags="" contents="0" rgroup="0" id="40514" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.145" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1157760" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="163" tags="" contents="0" rgroup="0" id="40520" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.146" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1163520" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="164" tags="" contents="0" rgroup="0" id="40526" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.147" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1169280" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="165" tags="" contents="0" rgroup="0" id="40532" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.148" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1175040" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="166" tags="" contents="0" rgroup="0" id="40538" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.149" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1180800" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="167" tags="" contents="0" rgroup="0" id="40544" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-2.6" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1186560" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="168" tags="" contents="0" rgroup="0" id="40569" type="midi" first-edit="nothing" source-0="17679" master-source-0="17679"/>
-      <Region name="Black Pearl Drumkit-3.60" muted="0" opaque="0" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1192320" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="174" tags="" contents="0" rgroup="0" id="40590" type="midi" first-edit="nothing" source-0="11566" master-source-0="11566"/>
-      <Region name="Black Pearl Drumkit-3.59" muted="0" opaque="0" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1198080" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="173" tags="" contents="0" rgroup="0" id="40587" type="midi" first-edit="nothing" source-0="11566" master-source-0="11566"/>
-      <Region name="Black Pearl Drumkit-3.58" muted="0" opaque="0" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1203840" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="172" tags="" contents="0" rgroup="0" id="40584" type="midi" first-edit="nothing" source-0="11566" master-source-0="11566"/>
-      <Region name="Black Pearl Drumkit-2.7" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1209600" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="171" tags="" contents="0" rgroup="0" id="40581" type="midi" first-edit="nothing" source-0="17679" master-source-0="17679"/>
-      <Region name="Black Pearl Drumkit-3.57" muted="0" opaque="0" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1215360" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="170" tags="" contents="0" rgroup="0" id="40578" type="midi" first-edit="nothing" source-0="11566" master-source-0="11566"/>
-      <Region name="Black Pearl Drumkit-3.56" muted="0" opaque="0" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1221120" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="169" tags="" contents="0" rgroup="0" id="40575" type="midi" first-edit="nothing" source-0="11566" master-source-0="11566"/>
-      <Region name="Black Pearl Drumkit-3.62" muted="0" opaque="0" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1226880" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="188" tags="" contents="0" rgroup="0" id="40740" type="midi" first-edit="nothing" source-0="11566" master-source-0="11566"/>
-      <Region name="Black Pearl Drumkit-4.152" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1232640" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="175" tags="" contents="0" rgroup="0" id="40596" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.153" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1238400" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="176" tags="" contents="0" rgroup="0" id="40606" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.154" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1244160" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="177" tags="" contents="0" rgroup="0" id="40612" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.155" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1249920" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="178" tags="" contents="0" rgroup="0" id="40618" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.156" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1255680" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="179" tags="" contents="0" rgroup="0" id="40624" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.157" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1261440" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="180" tags="" contents="0" rgroup="0" id="40630" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.158" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1267200" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="181" tags="" contents="0" rgroup="0" id="40636" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.159" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1272960" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="182" tags="" contents="0" rgroup="0" id="40642" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.160" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1278720" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="183" tags="" contents="0" rgroup="0" id="40648" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.161" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1284480" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="184" tags="" contents="0" rgroup="0" id="40654" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.162" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1290240" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="185" tags="" contents="0" rgroup="0" id="40660" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.163" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1296000" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="186" tags="" contents="0" rgroup="0" id="40666" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.164" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1301760" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="187" tags="" contents="0" rgroup="0" id="40672" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.165" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1307520" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="189" tags="" contents="0" rgroup="0" id="40746" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.166" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1313280" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="190" tags="" contents="0" rgroup="0" id="40752" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.167" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1319040" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="191" tags="" contents="0" rgroup="0" id="40758" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.168" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1324800" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="192" tags="" contents="0" rgroup="0" id="40764" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.169" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1330560" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="193" tags="" contents="0" rgroup="0" id="40770" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.170" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1336320" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="194" tags="" contents="0" rgroup="0" id="40776" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.171" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1342080" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="195" tags="" contents="0" rgroup="0" id="40782" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.172" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1347840" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="196" tags="" contents="0" rgroup="0" id="40788" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.173" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1353600" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="197" tags="" contents="0" rgroup="0" id="40794" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.174" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1359360" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="198" tags="" contents="0" rgroup="0" id="40800" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.175" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1365120" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="199" tags="" contents="0" rgroup="0" id="40806" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.176" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1370880" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="200" tags="" contents="0" rgroup="0" id="40812" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.177" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1376640" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="201" tags="" contents="0" rgroup="0" id="40818" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.178" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1382400" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="202" tags="" contents="0" rgroup="0" id="40824" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.179" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1388160" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="203" tags="" contents="0" rgroup="0" id="40830" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.180" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1393920" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="204" tags="" contents="0" rgroup="0" id="40836" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.181" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1399680" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="205" tags="" contents="0" rgroup="0" id="40842" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.182" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1405440" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="206" tags="" contents="0" rgroup="0" id="40848" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.183" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1411200" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="207" tags="" contents="0" rgroup="0" id="40854" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.184" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1416960" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="208" tags="" contents="0" rgroup="0" id="40860" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.185" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1422720" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="209" tags="" contents="0" rgroup="0" id="40866" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.186" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1428480" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="210" tags="" contents="0" rgroup="0" id="40872" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.187" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1434240" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="211" tags="" contents="0" rgroup="0" id="40878" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.188" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1440000" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="212" tags="" contents="0" rgroup="0" id="40884" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.189" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1445760" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="213" tags="" contents="0" rgroup="0" id="40890" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.190" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1451520" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="214" tags="" contents="0" rgroup="0" id="40896" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
-      <Region name="Black Pearl Drumkit-4.191" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1457280" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="215" tags="" contents="0" rgroup="0" id="40902" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-5.6" muted="0" opaque="0" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1088640" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="215" tags="" contents="0" rgroup="0" id="47463" type="midi" first-edit="nothing" source-0="13313" master-source-0="13313"/>
+      <Region name="Black Pearl Drumkit-4.134" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1094400" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="151" tags="" contents="0" rgroup="0" id="40454" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.135" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1100160" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="152" tags="" contents="0" rgroup="0" id="40460" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.136" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1105920" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="153" tags="" contents="0" rgroup="0" id="40466" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.137" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1111680" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="154" tags="" contents="0" rgroup="0" id="40472" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.138" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1117440" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="155" tags="" contents="0" rgroup="0" id="40478" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.139" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1123200" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="156" tags="" contents="0" rgroup="0" id="40484" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.140" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1128960" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="157" tags="" contents="0" rgroup="0" id="40490" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.141" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1134720" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="158" tags="" contents="0" rgroup="0" id="40496" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.142" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1140480" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="159" tags="" contents="0" rgroup="0" id="40502" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.143" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1146240" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="160" tags="" contents="0" rgroup="0" id="40508" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.144" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1152000" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="161" tags="" contents="0" rgroup="0" id="40514" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.145" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1157760" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="162" tags="" contents="0" rgroup="0" id="40520" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.146" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1163520" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="163" tags="" contents="0" rgroup="0" id="40526" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.147" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1169280" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="164" tags="" contents="0" rgroup="0" id="40532" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.148" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1175040" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="165" tags="" contents="0" rgroup="0" id="40538" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.149" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1180800" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="166" tags="" contents="0" rgroup="0" id="40544" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-2.6" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1186560" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="167" tags="" contents="0" rgroup="0" id="40569" type="midi" first-edit="nothing" source-0="17679" master-source-0="17679"/>
+      <Region name="Black Pearl Drumkit-3.60" muted="0" opaque="0" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1192320" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="173" tags="" contents="0" rgroup="0" id="40590" type="midi" first-edit="nothing" source-0="11566" master-source-0="11566"/>
+      <Region name="Black Pearl Drumkit-3.59" muted="0" opaque="0" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1198080" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="172" tags="" contents="0" rgroup="0" id="40587" type="midi" first-edit="nothing" source-0="11566" master-source-0="11566"/>
+      <Region name="Black Pearl Drumkit-3.58" muted="0" opaque="0" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1203840" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="171" tags="" contents="0" rgroup="0" id="40584" type="midi" first-edit="nothing" source-0="11566" master-source-0="11566"/>
+      <Region name="Black Pearl Drumkit-2.7" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1209600" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="170" tags="" contents="0" rgroup="0" id="40581" type="midi" first-edit="nothing" source-0="17679" master-source-0="17679"/>
+      <Region name="Black Pearl Drumkit-3.57" muted="0" opaque="0" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1215360" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="169" tags="" contents="0" rgroup="0" id="40578" type="midi" first-edit="nothing" source-0="11566" master-source-0="11566"/>
+      <Region name="Black Pearl Drumkit-3.56" muted="0" opaque="0" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1221120" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="168" tags="" contents="0" rgroup="0" id="40575" type="midi" first-edit="nothing" source-0="11566" master-source-0="11566"/>
+      <Region name="Black Pearl Drumkit-3.62" muted="0" opaque="0" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1226880" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="187" tags="" contents="0" rgroup="0" id="40740" type="midi" first-edit="nothing" source-0="11566" master-source-0="11566"/>
+      <Region name="Black Pearl Drumkit-4.152" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1232640" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="174" tags="" contents="0" rgroup="0" id="40596" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.153" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1238400" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="175" tags="" contents="0" rgroup="0" id="40606" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.154" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1244160" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="176" tags="" contents="0" rgroup="0" id="40612" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.155" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1249920" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="177" tags="" contents="0" rgroup="0" id="40618" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.156" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1255680" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="178" tags="" contents="0" rgroup="0" id="40624" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.157" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1261440" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="179" tags="" contents="0" rgroup="0" id="40630" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.158" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1267200" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="180" tags="" contents="0" rgroup="0" id="40636" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.159" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1272960" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="181" tags="" contents="0" rgroup="0" id="40642" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.160" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1278720" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="182" tags="" contents="0" rgroup="0" id="40648" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.161" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1284480" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="183" tags="" contents="0" rgroup="0" id="40654" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.162" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1290240" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="184" tags="" contents="0" rgroup="0" id="40660" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.163" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1296000" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="185" tags="" contents="0" rgroup="0" id="40666" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.164" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1301760" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="186" tags="" contents="0" rgroup="0" id="40672" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.165" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1307520" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="188" tags="" contents="0" rgroup="0" id="40746" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.166" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1313280" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="189" tags="" contents="0" rgroup="0" id="40752" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.167" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1319040" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="190" tags="" contents="0" rgroup="0" id="40758" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.168" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1324800" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="191" tags="" contents="0" rgroup="0" id="40764" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.169" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1330560" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="192" tags="" contents="0" rgroup="0" id="40770" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.170" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1336320" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="193" tags="" contents="0" rgroup="0" id="40776" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.171" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1342080" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="194" tags="" contents="0" rgroup="0" id="40782" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.172" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1347840" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="195" tags="" contents="0" rgroup="0" id="40788" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.173" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1353600" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="196" tags="" contents="0" rgroup="0" id="40794" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.174" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1359360" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="197" tags="" contents="0" rgroup="0" id="40800" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.175" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1365120" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="198" tags="" contents="0" rgroup="0" id="40806" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.176" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1370880" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="199" tags="" contents="0" rgroup="0" id="40812" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.177" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1376640" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="200" tags="" contents="0" rgroup="0" id="40818" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.178" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1382400" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="201" tags="" contents="0" rgroup="0" id="40824" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.179" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1388160" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="202" tags="" contents="0" rgroup="0" id="40830" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.180" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1393920" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="203" tags="" contents="0" rgroup="0" id="40836" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.181" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1399680" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="204" tags="" contents="0" rgroup="0" id="40842" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.182" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1405440" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="205" tags="" contents="0" rgroup="0" id="40848" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.183" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1411200" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="206" tags="" contents="0" rgroup="0" id="40854" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.184" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1416960" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="207" tags="" contents="0" rgroup="0" id="40860" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.185" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1422720" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="208" tags="" contents="0" rgroup="0" id="40866" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.186" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1428480" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="209" tags="" contents="0" rgroup="0" id="40872" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.187" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1434240" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="210" tags="" contents="0" rgroup="0" id="40878" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.188" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1440000" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="211" tags="" contents="0" rgroup="0" id="40884" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.189" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1445760" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="212" tags="" contents="0" rgroup="0" id="40890" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.190" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1451520" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="213" tags="" contents="0" rgroup="0" id="40896" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
+      <Region name="Black Pearl Drumkit-4.191" muted="0" opaque="0" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="b0" length="b5760@b1457280" sync-position="b0" ancestral-start="b0" ancestral-length="b0@b0" stretch="1" shift="1" layering-index="214" tags="" contents="0" rgroup="0" id="40902" type="midi" first-edit="nothing" source-0="12518" master-source-0="12518"/>
     </Playlist>
     <Playlist id="19910" name="live inst 1" type="audio" orig-track-id="19848" pgroup-id="2026-09-02 22.01.25" shared-with-ids="" frozen="0" combine-ops="0">
       <Region name="live inst 1-1.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="a2032128000" length="a8128512000@a4064256000" sync-position="a2032128000" ancestral-start="a0" ancestral-length="a0@a0" stretch="1" shift="1" layering-index="3" tags="" contents="0" rgroup="10736" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="28566" type="audio" first-edit="nothing" source-0="19912" master-source-0="19912" channels="1">
@@ -7550,7 +7625,6 @@ a409600 1
           <AutomationList automation-id="envelope" id="38613" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000003000000002
 a4064256000 1.0000002000000001
-a4064256000 1.0000002000000001
 </events>
           </AutomationList>
         </Envelope>
@@ -7711,7 +7785,6 @@ a409600 1
         <Envelope>
           <AutomationList automation-id="envelope" id="38703" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000001466666681
-a4064256000 1.0000003000000002
 a4064256000 1.0000003000000002
 </events>
           </AutomationList>
@@ -8036,7 +8109,6 @@ a409600 1
             <events>a0 1.0000001000000001
 a2032128000 1.0000001825369995
 a4064256000 1.0000001825369995
-a4064256000 1.0000001825369995
 </events>
           </AutomationList>
         </Envelope>
@@ -8199,7 +8271,6 @@ a409600 1
             <events>a0 1.0000002825369996
 a508032000 1.0000002825369996
 a2032128000 1.0000001825369995
-a2032128000 1.0000001825369995
 </events>
           </AutomationList>
         </Envelope>
@@ -8360,7 +8431,6 @@ a416000 1
         <Envelope>
           <AutomationList automation-id="envelope" id="39299" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000002000000001
-a4064256000 1.0000002499999994
 a4064256000 1.0000002499999994
 </events>
           </AutomationList>
@@ -8523,7 +8593,6 @@ a409600 1
           <AutomationList automation-id="envelope" id="39502" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000001466666681
 a4064256000 1.0000003000000002
-a4064256000 1.0000003000000002
 </events>
           </AutomationList>
         </Envelope>
@@ -8684,8 +8753,6 @@ a409600 1
         <Envelope>
           <AutomationList automation-id="envelope" id="39816" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000001466666681
-a4064256000 1.0000003000000002
-a4064256000 1.0000003000000002
 a4064256000 1.0000003000000002
 </events>
           </AutomationList>
@@ -8848,8 +8915,6 @@ a409600 1
           <AutomationList automation-id="envelope" id="39903" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000002000000001
 a4064256000 1.0000002499999994
-a4064256000 1.0000002499999994
-a4064256000 1.0000002499999994
 </events>
           </AutomationList>
         </Envelope>
@@ -9010,9 +9075,6 @@ a409600 1
         <Envelope>
           <AutomationList automation-id="envelope" id="40240" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000002000000001
-a4064256000 1.0000002499999994
-a4064256000 1.0000002499999994
-a4064256000 1.0000002499999994
 a4064256000 1.0000002499999994
 </events>
           </AutomationList>
@@ -10610,7 +10672,6 @@ a409600 1
           <AutomationList automation-id="envelope" id="38713" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000001000000001
 a4064256000 1.0000002571595117
-a4064256000 1.0000002571595117
 </events>
           </AutomationList>
         </Envelope>
@@ -10934,7 +10995,6 @@ a409600 1
             <events>a0 1.0000001000000001
 a2032128000 1.0000001825369995
 a4064256000 1.0000001825369995
-a4064256000 1.0000001825369995
 </events>
           </AutomationList>
         </Envelope>
@@ -11095,7 +11155,6 @@ a409600 1
         <Envelope>
           <AutomationList automation-id="envelope" id="39309" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000001571595116
-a4064256000 1.0000001982647568
 a4064256000 1.0000001982647568
 </events>
           </AutomationList>
@@ -11258,7 +11317,6 @@ a409600 1
           <AutomationList automation-id="envelope" id="39512" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000001000000001
 a4064256000 1.0000002571595117
-a4064256000 1.0000002571595117
 </events>
           </AutomationList>
         </Envelope>
@@ -11419,8 +11477,6 @@ a409600 1
         <Envelope>
           <AutomationList automation-id="envelope" id="39878" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000001000000001
-a4064256000 1.0000002571595117
-a4064256000 1.0000002571595117
 a4064256000 1.0000002571595117
 </events>
           </AutomationList>
@@ -11583,8 +11639,6 @@ a409600 1
           <AutomationList automation-id="envelope" id="39913" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000001571595116
 a4064256000 1.0000001982647568
-a4064256000 1.0000001982647568
-a4064256000 1.0000001982647568
 </events>
           </AutomationList>
         </Envelope>
@@ -11745,9 +11799,6 @@ a409600 1
         <Envelope>
           <AutomationList automation-id="envelope" id="40306" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000001571595116
-a4064256000 1.0000001982647568
-a4064256000 1.0000001982647568
-a4064256000 1.0000001982647568
 a4064256000 1.0000001982647568
 </events>
           </AutomationList>
@@ -12707,7 +12758,6 @@ a409600 1
           <AutomationList automation-id="envelope" id="41033" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000002048528602
 a508032000 1.0000003098581163
-a508032000 1.0000003098581163
 </events>
           </AutomationList>
         </Envelope>
@@ -13030,7 +13080,6 @@ a409600 1
           <AutomationList automation-id="envelope" id="38681" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000003000000002
 a4064256000 1.0000002000000001
-a4064256000 1.0000002000000001
 </events>
           </AutomationList>
         </Envelope>
@@ -13191,7 +13240,6 @@ a409600 1
         <Envelope>
           <AutomationList automation-id="envelope" id="38723" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.000000153833271
-a4064256000 1.0000003000000002
 a4064256000 1.0000003000000002
 </events>
           </AutomationList>
@@ -13354,10 +13402,6 @@ a409600 1
           <AutomationList automation-id="envelope" id="38970" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000002000000001
 a4064256000 1.0000001000000001
-a4064256000 1.0000001000000001
-a4064256000 1.0000001000000001
-a4064256000 1.0000001000000001
-a4064256000 1.0000001000000001
 </events>
           </AutomationList>
         </Envelope>
@@ -13518,10 +13562,6 @@ a409600 1
         <Envelope>
           <AutomationList automation-id="envelope" id="38979" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000001000000001
-a0 1.0000001000000001
-a0 1.0000001000000001
-a0 1.0000001000000001
-a0 1.0000001000000001
 </events>
           </AutomationList>
         </Envelope>
@@ -13682,11 +13722,6 @@ a409600 1
         <Envelope>
           <AutomationList automation-id="envelope" id="39319" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000002000000001
-a4064256000 1.0000001000000001
-a4064256000 1.0000001000000001
-a4064256000 1.0000001000000001
-a4064256000 1.0000001000000001
-a4064256000 1.0000001000000001
 a4064256000 1.0000001000000001
 </events>
           </AutomationList>
@@ -13849,7 +13884,6 @@ a409600 1
           <AutomationList automation-id="envelope" id="39522" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.000000153833271
 a4064256000 1.0000003000000002
-a4064256000 1.0000003000000002
 </events>
           </AutomationList>
         </Envelope>
@@ -14010,8 +14044,6 @@ a409600 1
         <Envelope>
           <AutomationList automation-id="envelope" id="39747" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.000000153833271
-a4064256000 1.0000003000000002
-a4064256000 1.0000003000000002
 a4064256000 1.0000003000000002
 </events>
           </AutomationList>
@@ -14174,12 +14206,6 @@ a409600 1
           <AutomationList automation-id="envelope" id="39923" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000002000000001
 a4064256000 1.0000001000000001
-a4064256000 1.0000001000000001
-a4064256000 1.0000001000000001
-a4064256000 1.0000001000000001
-a4064256000 1.0000001000000001
-a4064256000 1.0000001000000001
-a4064256000 1.0000001000000001
 </events>
           </AutomationList>
         </Envelope>
@@ -14340,13 +14366,6 @@ a409600 1
         <Envelope>
           <AutomationList automation-id="envelope" id="40167" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000002000000001
-a4064256000 1.0000001000000001
-a4064256000 1.0000001000000001
-a4064256000 1.0000001000000001
-a4064256000 1.0000001000000001
-a4064256000 1.0000001000000001
-a4064256000 1.0000001000000001
-a4064256000 1.0000001000000001
 a4064256000 1.0000001000000001
 </events>
           </AutomationList>
@@ -14672,7 +14691,6 @@ a409600 1
           <AutomationList automation-id="envelope" id="41073" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000001174104456
 a1392256000 1
-a1392256000 1
 </events>
           </AutomationList>
         </Envelope>
@@ -14833,8 +14851,6 @@ a409600 1
         <Envelope>
           <AutomationList automation-id="envelope" id="41460" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000001174104456
-a1392256000 1
-a1392256000 1
 a1392256000 1
 </events>
           </AutomationList>
@@ -14997,9 +15013,6 @@ a409600 1
           <AutomationList automation-id="envelope" id="41575" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000001174104456
 a1392256000 1
-a1392256000 1
-a1392256000 1
-a1392256000 1
 </events>
           </AutomationList>
         </Envelope>
@@ -15161,10 +15174,6 @@ a409600 1
           <AutomationList automation-id="envelope" id="41696" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
             <events>a0 1.0000001174104456
 a1392256000 1
-a1392256000 1
-a1392256000 1
-a1392256000 1
-a1392256000 1
 </events>
           </AutomationList>
         </Envelope>
@@ -15284,6 +15293,318 @@ a409600 1.0000000116860974e-07
         </FadeOut>
         <InverseFadeOut>
           <AutomationList automation-id="fadeout" id="41694" interpolation-style="Curved" time-domain="AudioTime" state="Off">
+            <events>a0 1.0000000116860974e-07
+a25600 0.095055952925701945
+a38400 0.1423147961488434
+a51200 0.18925124993221634
+a64000 0.2357588969086416
+a76800 0.28173247517396005
+a89600 0.32706792846270311
+a102400 0.37166246619609478
+a115200 0.41541498203247024
+a128000 0.45822645111753457
+a140800 0.49999997297228316
+a153600 0.54064083177629574
+a166400 0.5800568864602571
+a179200 0.61815892823618979
+a192000 0.65486071464754436
+a204800 0.69007902790898956
+a211200 0.72373402244207363
+a224000 0.75574956041960206
+a236800 0.78605308246601313
+a249600 0.81457594135313838
+a262400 0.84125352362782713
+a275200 0.86602539598220885
+a288000 0.88883544215458044
+a300800 0.90963199005079642
+a313600 0.92836792879818764
+a326400 0.94500081546684744
+a339200 0.9594929712165241
+a352000 0.97181156665131863
+a364800 0.98192869618882905
+a377600 0.98982144127527472
+a390400 0.99547192230339399
+a403200 0.99886733911550885
+a409600 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+    </Playlist>
+    <Playlist id="47532" name="vocals" type="audio" orig-track-id="47470" pgroup-id="2026-10-18 00.14.48" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="vocals-1.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="a0" length="a12958003200@a83317248000" sync-position="a0" ancestral-start="a0" ancestral-length="a0@a0" stretch="1" shift="1" layering-index="0" tags="" contents="0" rgroup="15504" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="47558" type="audio" first-edit="nothing" source-0="47534" master-source-0="47534" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="47559" interpolation-style="Curved" time-domain="AudioTime" state="Off">
+            <events>a0 1.0000000116860974e-07
+a6400 0.047581917240722742
+a19200 0.095056046128510166
+a32000 0.14231484248572931
+a44800 0.18925124993221623
+a57600 0.23575894240242462
+a70400 0.28173256500817656
+a83200 0.32706797270138427
+a96000 0.37166246619609461
+a108800 0.41541502461541735
+a121600 0.45822653433631649
+a134400 0.50000001351385825
+a147200 0.54064083177629574
+a160000 0.5800569245933096
+a172800 0.6181590018317934
+a185600 0.65486075002673527
+a198400 0.69007902790898956
+a204800 0.72373402244207363
+a217600 0.75574959107584527
+a230400 0.78605314034223239
+a243200 0.81457596850756187
+a256000 0.84125352362782713
+a268800 0.86602541938889765
+a281600 0.88883548505684096
+a294400 0.90963200949777623
+a307200 0.92836792879818764
+a320000 0.94500083077800312
+a332800 0.95949299759422635
+a345600 0.97181157768799009
+a358400 0.98192869618882905
+a371200 0.98982144793751214
+a384000 0.99547193120317901
+a409600 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="47560" interpolation-style="Curved" time-domain="AudioTime" state="Off">
+            <events>a0 1
+a25600 0.99547193120317901
+a38400 0.98982144793751214
+a51200 0.98192869618882905
+a64000 0.97181157768799009
+a76800 0.95949299759422635
+a89600 0.94500083077800312
+a102400 0.92836792879818764
+a115200 0.90963200949777623
+a128000 0.88883548505684096
+a140800 0.86602541938889765
+a153600 0.84125352362782713
+a166400 0.81457596850756187
+a179200 0.78605314034223239
+a192000 0.75574959107584527
+a204800 0.72373402244207363
+a211200 0.69007902790898956
+a224000 0.65486075002673527
+a236800 0.6181590018317934
+a249600 0.5800569245933096
+a262400 0.54064083177629574
+a275200 0.50000001351385825
+a288000 0.45822653433631649
+a300800 0.41541502461541735
+a313600 0.37166246619609461
+a326400 0.32706797270138427
+a339200 0.28173256500817656
+a352000 0.23575894240242462
+a364800 0.18925124993221623
+a377600 0.14231484248572931
+a390400 0.095056046128510166
+a403200 0.047581917240722742
+a409600 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="47561" interpolation-style="Curved" time-domain="AudioTime" state="Off">
+            <events>a0 1
+a6400 0.99886733911550885
+a19200 0.99547192230339399
+a32000 0.98982144127527472
+a44800 0.98192869618882905
+a57600 0.97181156665131863
+a70400 0.9594929712165241
+a83200 0.94500081546684744
+a96000 0.92836792879818764
+a108800 0.90963199005079642
+a121600 0.88883544215458044
+a134400 0.86602539598220885
+a147200 0.84125352362782713
+a160000 0.81457594135313838
+a172800 0.78605308246601313
+a185600 0.75574956041960206
+a198400 0.72373402244207363
+a204800 0.69007902790898956
+a217600 0.65486071464754436
+a230400 0.61815892823618979
+a243200 0.5800568864602571
+a256000 0.54064083177629574
+a268800 0.49999997297228316
+a281600 0.45822645111753457
+a294400 0.41541498203247024
+a307200 0.37166246619609478
+a320000 0.32706792846270311
+a332800 0.28173247517396005
+a345600 0.2357588969086416
+a358400 0.18925124993221634
+a371200 0.1423147961488434
+a384000 0.095055952925701945
+a409600 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="47562" interpolation-style="Curved" time-domain="AudioTime" state="Off">
+            <events>a0 1.0000000116860974e-07
+a25600 0.095055952925701945
+a38400 0.1423147961488434
+a51200 0.18925124993221634
+a64000 0.2357588969086416
+a76800 0.28173247517396005
+a89600 0.32706792846270311
+a102400 0.37166246619609478
+a115200 0.41541498203247024
+a128000 0.45822645111753457
+a140800 0.49999997297228316
+a153600 0.54064083177629574
+a166400 0.5800568864602571
+a179200 0.61815892823618979
+a192000 0.65486071464754436
+a204800 0.69007902790898956
+a211200 0.72373402244207363
+a224000 0.75574956041960206
+a236800 0.78605308246601313
+a249600 0.81457594135313838
+a262400 0.84125352362782713
+a275200 0.86602539598220885
+a288000 0.88883544215458044
+a300800 0.90963199005079642
+a313600 0.92836792879818764
+a326400 0.94500081546684744
+a339200 0.9594929712165241
+a352000 0.97181156665131863
+a364800 0.98192869618882905
+a377600 0.98982144127527472
+a390400 0.99547192230339399
+a403200 0.99886733911550885
+a409600 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="vocals-2.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="a0" length="a5860454400@a90937728000" sync-position="a0" ancestral-start="a0" ancestral-length="a0@a0" stretch="1" shift="1" layering-index="1" tags="" contents="0" rgroup="15536" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="47596" type="audio" first-edit="nothing" source-0="47577" master-source-0="47577" channels="1">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="47597" interpolation-style="Curved" time-domain="AudioTime" state="Off">
+            <events>a0 1.0000000116860974e-07
+a6400 0.047581917240722742
+a19200 0.095056046128510166
+a32000 0.14231484248572931
+a44800 0.18925124993221623
+a57600 0.23575894240242462
+a70400 0.28173256500817656
+a83200 0.32706797270138427
+a96000 0.37166246619609461
+a108800 0.41541502461541735
+a121600 0.45822653433631649
+a134400 0.50000001351385825
+a147200 0.54064083177629574
+a160000 0.5800569245933096
+a172800 0.6181590018317934
+a185600 0.65486075002673527
+a198400 0.69007902790898956
+a204800 0.72373402244207363
+a217600 0.75574959107584527
+a230400 0.78605314034223239
+a243200 0.81457596850756187
+a256000 0.84125352362782713
+a268800 0.86602541938889765
+a281600 0.88883548505684096
+a294400 0.90963200949777623
+a307200 0.92836792879818764
+a320000 0.94500083077800312
+a332800 0.95949299759422635
+a345600 0.97181157768799009
+a358400 0.98192869618882905
+a371200 0.98982144793751214
+a384000 0.99547193120317901
+a409600 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="47598" interpolation-style="Curved" time-domain="AudioTime" state="Off">
+            <events>a0 1
+a25600 0.99547193120317901
+a38400 0.98982144793751214
+a51200 0.98192869618882905
+a64000 0.97181157768799009
+a76800 0.95949299759422635
+a89600 0.94500083077800312
+a102400 0.92836792879818764
+a115200 0.90963200949777623
+a128000 0.88883548505684096
+a140800 0.86602541938889765
+a153600 0.84125352362782713
+a166400 0.81457596850756187
+a179200 0.78605314034223239
+a192000 0.75574959107584527
+a204800 0.72373402244207363
+a211200 0.69007902790898956
+a224000 0.65486075002673527
+a236800 0.6181590018317934
+a249600 0.5800569245933096
+a262400 0.54064083177629574
+a275200 0.50000001351385825
+a288000 0.45822653433631649
+a300800 0.41541502461541735
+a313600 0.37166246619609461
+a326400 0.32706797270138427
+a339200 0.28173256500817656
+a352000 0.23575894240242462
+a364800 0.18925124993221623
+a377600 0.14231484248572931
+a390400 0.095056046128510166
+a403200 0.047581917240722742
+a409600 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="47599" interpolation-style="Curved" time-domain="AudioTime" state="Off">
+            <events>a0 1
+a6400 0.99886733911550885
+a19200 0.99547192230339399
+a32000 0.98982144127527472
+a44800 0.98192869618882905
+a57600 0.97181156665131863
+a70400 0.9594929712165241
+a83200 0.94500081546684744
+a96000 0.92836792879818764
+a108800 0.90963199005079642
+a121600 0.88883544215458044
+a134400 0.86602539598220885
+a147200 0.84125352362782713
+a160000 0.81457594135313838
+a172800 0.78605308246601313
+a185600 0.75574956041960206
+a198400 0.72373402244207363
+a204800 0.69007902790898956
+a217600 0.65486071464754436
+a230400 0.61815892823618979
+a243200 0.5800568864602571
+a256000 0.54064083177629574
+a268800 0.49999997297228316
+a281600 0.45822645111753457
+a294400 0.41541498203247024
+a307200 0.37166246619609478
+a320000 0.32706792846270311
+a332800 0.28173247517396005
+a345600 0.2357588969086416
+a358400 0.18925124993221634
+a371200 0.1423147961488434
+a384000 0.095055952925701945
+a409600 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="47600" interpolation-style="Curved" time-domain="AudioTime" state="Off">
             <events>a0 1.0000000116860974e-07
 a25600 0.095055952925701945
 a38400 0.1423147961488434
@@ -16380,7 +16701,7 @@ a409600 1
       <ExportFormat id="b165e4bb-a516-4bd8-894a-31dd60b96fe1"/>
       <ExportFilename>
         <Folder relative="1" path="export"/>
-        <Field name="label" enabled="1" value="chorus-organ-melody-idea"/>
+        <Field name="label" enabled="1" value="new-arrangement"/>
         <Field name="session" enabled="1"/>
         <Field name="snapshot" enabled="0"/>
         <Field name="timespan" enabled="1"/>
@@ -16444,6 +16765,7 @@ a409600 1
       <Window name="P-19916-25057" visible="0" x-off="635" y-off="319" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="PM-19916-24963" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-19916-25057" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-47470" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 71" height="76"/>
         <Object id="automation 75" height="76" visible="0"/>
@@ -16761,6 +17083,16 @@ a409600 1
         <Object id="strip 32890">
           <Object id="processor 32937">
             <Object id="control 32911" visible="0"/>
+          </Object>
+        </Object>
+        <Object id="rtav 47470" height="76"/>
+        <Object id="automation 47491" height="76" visible="0"/>
+        <Object id="automation 47493" height="76" visible="0"/>
+        <Object id="automation 47470 12/0/0" height="76" visible="0"/>
+        <Object id="automation 47506" height="76" visible="0"/>
+        <Object id="strip 47470">
+          <Object id="processor 47517">
+            <Object id="control 47491" visible="0"/>
           </Object>
         </Object>
       </GUIObjectState>
