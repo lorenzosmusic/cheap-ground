@@ -1,48 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
-  <UndoTransaction tv-sec="1790055292" tv-usec="481908" name="region drag">
-    <StatefulDiffCommand obj-id="41057" type-name="ARDOUR::AudioRegion">
-      <Changes>
-        <length from="a9070950400@a86365440000" to="a9070950400@a84333312000"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="41077" type-name="ARDOUR::AudioRegion">
-      <Changes>
-        <length from="a6604416000@a87381504000" to="a6604416000@a85349376000"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <StatefulDiffCommand obj-id="41067" type-name="ARDOUR::AudioRegion">
-      <Changes>
-        <length from="a1392256000@a93985920000" to="a1392256000@a91953792000"/>
-      </Changes>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="49" type-name="SelectionMemento">
-      <SelectionMemento mouse-mode="MouseObject" zoom="4372" left-frame="10582660" y-origin="228">
-        <Selection>
-          <Regions>
-            <Region id="41057"/>
-            <Region id="41077"/>
-            <Region id="41067"/>
-          </Regions>
-        </Selection>
-      </SelectionMemento>
-      <SelectionMemento mouse-mode="MouseObject" zoom="4372" left-frame="10582660" y-origin="228">
-        <Selection>
-          <Regions>
-            <Region id="41057"/>
-            <Region id="41077"/>
-            <Region id="41067"/>
-          </Regions>
-        </Selection>
-      </SelectionMemento>
-    </MementoCommand>
-  </UndoTransaction>
   <UndoTransaction tv-sec="1790055315" tv-usec="685379" name="split">
     <StatefulDiffCommand obj-id="539" type-name="ARDOUR::AudioPlaylist">
       <Changes>
         <Regions>
-          <Add id="41179"/>
           <Add id="41188"/>
+          <Add id="41179"/>
           <Remove id="41077"/>
         </Regions>
       </Changes>
@@ -90,8 +53,8 @@
     <StatefulDiffCommand obj-id="539" type-name="ARDOUR::AudioPlaylist">
       <Changes>
         <Regions>
-          <Add id="41275"/>
           <Add id="41284"/>
+          <Add id="41275"/>
           <Remove id="41057"/>
         </Regions>
       </Changes>
@@ -306,8 +269,8 @@
     <StatefulDiffCommand obj-id="539" type-name="ARDOUR::AudioPlaylist">
       <Changes>
         <Regions>
-          <Add id="41680"/>
           <Add id="41700"/>
+          <Add id="41680"/>
         </Regions>
       </Changes>
     </StatefulDiffCommand>
@@ -916,22 +879,6 @@
       <Changes>
         <start from="a0" to="a1524096000"/>
         <length from="a5860454400@a90937728000" to="a4336358400@a92461824000"/>
-        <Envelope>
-          <from>
-            <AutomationList automation-id="envelope" id="53481" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
-              <events>a0 1
-a5860454400 1
-</events>
-            </AutomationList>
-          </from>
-          <to>
-            <AutomationList automation-id="envelope" id="53480" interpolation-style="Exponential" time-domain="AudioTime" state="Off">
-              <events>a0 1.0000001000000001
-a4336358400 1
-</events>
-            </AutomationList>
-          </to>
-        </Envelope>
       </Changes>
     </StatefulDiffCommand>
     <MementoCommand obj-id="49" type-name="SelectionMemento">
@@ -969,6 +916,29 @@ a4336358400 1
             <Region id="47596"/>
           </Regions>
           <Marker id="403" start="0"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1792905528" tv-usec="86615" name="split">
+    <StatefulDiffCommand obj-id="47532" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="59351"/>
+          <Add id="59342"/>
+          <Remove id="47558"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="49" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="6400" left-frame="12101173" y-origin="858">
+        <Selection>
+          <StripableView id="47470"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="6400" left-frame="12101173" y-origin="858">
+        <Selection>
+          <StripableView id="47470"/>
         </Selection>
       </SelectionMemento>
     </MementoCommand>
