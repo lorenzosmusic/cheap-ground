@@ -2,9 +2,7 @@
 <UndoHistory>
   <UndoTransaction tv-sec="1793074439" tv-usec="4363" name="New Playlist for track drums 4">
     <StatefulDiffCommand obj-id="67574" type-name="ARDOUR::AudioPlaylist">
-      <Changes>
-        <name from="Take.9" to="Take.8"/>
-      </Changes>
+      <Changes/>
     </StatefulDiffCommand>
     <MementoCommand obj-id="65312" type-name="ARDOUR::AudioTrack">
       <Route version="7003" audio-playlist="66537"/>
@@ -13,9 +11,7 @@
   </UndoTransaction>
   <UndoTransaction tv-sec="1793074439" tv-usec="8825" name="New Playlist for track drums 5">
     <StatefulDiffCommand obj-id="67581" type-name="ARDOUR::AudioPlaylist">
-      <Changes>
-        <name from="Take.9" to="Take.8"/>
-      </Changes>
+      <Changes/>
     </StatefulDiffCommand>
     <MementoCommand obj-id="65380" type-name="ARDOUR::AudioTrack">
       <Route version="7003" audio-playlist="66544"/>
@@ -24,9 +20,7 @@
   </UndoTransaction>
   <UndoTransaction tv-sec="1793074439" tv-usec="12815" name="New Playlist for track drums 6">
     <StatefulDiffCommand obj-id="67588" type-name="ARDOUR::AudioPlaylist">
-      <Changes>
-        <name from="Take.9" to="Take.8"/>
-      </Changes>
+      <Changes/>
     </StatefulDiffCommand>
     <MementoCommand obj-id="65448" type-name="ARDOUR::AudioTrack">
       <Route version="7003" audio-playlist="66551"/>
@@ -35,9 +29,7 @@
   </UndoTransaction>
   <UndoTransaction tv-sec="1793074439" tv-usec="17052" name="New Playlist for track drums 7">
     <StatefulDiffCommand obj-id="67595" type-name="ARDOUR::AudioPlaylist">
-      <Changes>
-        <name from="Take.9" to="Take.8"/>
-      </Changes>
+      <Changes/>
     </StatefulDiffCommand>
     <MementoCommand obj-id="65516" type-name="ARDOUR::AudioTrack">
       <Route version="7003" audio-playlist="66558"/>
@@ -46,9 +38,7 @@
   </UndoTransaction>
   <UndoTransaction tv-sec="1793074439" tv-usec="21848" name="New Playlist for track drums 8">
     <StatefulDiffCommand obj-id="67602" type-name="ARDOUR::AudioPlaylist">
-      <Changes>
-        <name from="Take.9" to="Take.8"/>
-      </Changes>
+      <Changes/>
     </StatefulDiffCommand>
     <MementoCommand obj-id="65584" type-name="ARDOUR::AudioTrack">
       <Route version="7003" audio-playlist="66565"/>
@@ -57,9 +47,7 @@
   </UndoTransaction>
   <UndoTransaction tv-sec="1793074439" tv-usec="25382" name="New Playlist for track drums 9">
     <StatefulDiffCommand obj-id="67609" type-name="ARDOUR::AudioPlaylist">
-      <Changes>
-        <name from="Take.9" to="Take.8"/>
-      </Changes>
+      <Changes/>
     </StatefulDiffCommand>
     <MementoCommand obj-id="65652" type-name="ARDOUR::AudioTrack">
       <Route version="7003" audio-playlist="66572"/>
@@ -68,9 +56,7 @@
   </UndoTransaction>
   <UndoTransaction tv-sec="1793074439" tv-usec="30330" name="New Playlist for track drums 10">
     <StatefulDiffCommand obj-id="67616" type-name="ARDOUR::AudioPlaylist">
-      <Changes>
-        <name from="Take.9" to="Take.8"/>
-      </Changes>
+      <Changes/>
     </StatefulDiffCommand>
     <MementoCommand obj-id="65720" type-name="ARDOUR::AudioTrack">
       <Route version="7003" audio-playlist="66579"/>
@@ -146,9 +132,7 @@
   </UndoTransaction>
   <UndoTransaction tv-sec="1793075093" tv-usec="433360" name="New Playlist for track drums 4">
     <StatefulDiffCommand obj-id="68224" type-name="ARDOUR::AudioPlaylist">
-      <Changes>
-        <name from="Take.10" to="Take.9"/>
-      </Changes>
+      <Changes/>
     </StatefulDiffCommand>
     <MementoCommand obj-id="65312" type-name="ARDOUR::AudioTrack">
       <Route version="7003" audio-playlist="67574"/>
@@ -157,9 +141,7 @@
   </UndoTransaction>
   <UndoTransaction tv-sec="1793075093" tv-usec="437731" name="New Playlist for track drums 5">
     <StatefulDiffCommand obj-id="68231" type-name="ARDOUR::AudioPlaylist">
-      <Changes>
-        <name from="Take.10" to="Take.9"/>
-      </Changes>
+      <Changes/>
     </StatefulDiffCommand>
     <MementoCommand obj-id="65380" type-name="ARDOUR::AudioTrack">
       <Route version="7003" audio-playlist="67581"/>
@@ -168,9 +150,7 @@
   </UndoTransaction>
   <UndoTransaction tv-sec="1793075093" tv-usec="441580" name="New Playlist for track drums 6">
     <StatefulDiffCommand obj-id="68238" type-name="ARDOUR::AudioPlaylist">
-      <Changes>
-        <name from="Take.10" to="Take.9"/>
-      </Changes>
+      <Changes/>
     </StatefulDiffCommand>
     <MementoCommand obj-id="65448" type-name="ARDOUR::AudioTrack">
       <Route version="7003" audio-playlist="67588"/>
@@ -179,9 +159,7 @@
   </UndoTransaction>
   <UndoTransaction tv-sec="1793075093" tv-usec="445265" name="New Playlist for track drums 7">
     <StatefulDiffCommand obj-id="68245" type-name="ARDOUR::AudioPlaylist">
-      <Changes>
-        <name from="Take.10" to="Take.9"/>
-      </Changes>
+      <Changes/>
     </StatefulDiffCommand>
     <MementoCommand obj-id="65516" type-name="ARDOUR::AudioTrack">
       <Route version="7003" audio-playlist="67595"/>
@@ -190,9 +168,7 @@
   </UndoTransaction>
   <UndoTransaction tv-sec="1793075093" tv-usec="451072" name="New Playlist for track drums 8">
     <StatefulDiffCommand obj-id="68252" type-name="ARDOUR::AudioPlaylist">
-      <Changes>
-        <name from="Take.10" to="Take.9"/>
-      </Changes>
+      <Changes/>
     </StatefulDiffCommand>
     <MementoCommand obj-id="65584" type-name="ARDOUR::AudioTrack">
       <Route version="7003" audio-playlist="67602"/>
@@ -201,9 +177,7 @@
   </UndoTransaction>
   <UndoTransaction tv-sec="1793075093" tv-usec="454476" name="New Playlist for track drums 9">
     <StatefulDiffCommand obj-id="68259" type-name="ARDOUR::AudioPlaylist">
-      <Changes>
-        <name from="Take.10" to="Take.9"/>
-      </Changes>
+      <Changes/>
     </StatefulDiffCommand>
     <MementoCommand obj-id="65652" type-name="ARDOUR::AudioTrack">
       <Route version="7003" audio-playlist="67609"/>
@@ -212,9 +186,7 @@
   </UndoTransaction>
   <UndoTransaction tv-sec="1793075093" tv-usec="457553" name="New Playlist for track drums 10">
     <StatefulDiffCommand obj-id="68266" type-name="ARDOUR::AudioPlaylist">
-      <Changes>
-        <name from="Take.10" to="Take.9"/>
-      </Changes>
+      <Changes/>
     </StatefulDiffCommand>
     <MementoCommand obj-id="65720" type-name="ARDOUR::AudioTrack">
       <Route version="7003" audio-playlist="67616"/>
