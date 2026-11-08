@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
-  <UndoTransaction tv-sec="1793074439" tv-usec="4363" name="New Playlist for track drums 4">
-    <StatefulDiffCommand obj-id="67574" type-name="ARDOUR::AudioPlaylist">
-      <Changes/>
-    </StatefulDiffCommand>
-    <MementoCommand obj-id="65312" type-name="ARDOUR::AudioTrack">
-      <Route version="7003" audio-playlist="66537"/>
-      <Route version="7003" audio-playlist="67574"/>
-    </MementoCommand>
-  </UndoTransaction>
   <UndoTransaction tv-sec="1793074439" tv-usec="8825" name="New Playlist for track drums 5">
     <StatefulDiffCommand obj-id="67581" type-name="ARDOUR::AudioPlaylist">
       <Changes/>
